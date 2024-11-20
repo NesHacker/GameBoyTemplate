@@ -1,0 +1,6 @@
+{
+  "files.associations": {
+    "*.asm": "gbz80",
+    "*.inc": "gbz80",
+  }
+}

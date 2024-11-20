@@ -9,9 +9,9 @@ const uint16_t example_bg_palette[] = {
 
 const uint16_t example_fg_palette[] = {
   RGB_BLACK,
-  RGB_NOBORU_PURPLE1,
   RGB_NOBORU_PURPLE2,
-  RGB_NOBORU_SKIN
+  RGB_NOBORU_SKIN,
+  RGB_NOBORU_PURPLE1,
 };
 
 void load_palettes (void) {
