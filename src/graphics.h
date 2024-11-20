@@ -1,3 +1,7 @@
+/**
+ * Graphics & color related state and functions.
+ */
+
 #ifndef _GRAPHICS_H
 #define _GRAPHICS_H
 
